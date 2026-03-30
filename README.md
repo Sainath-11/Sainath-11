@@ -15,83 +15,98 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hi, I'm Sainath Banoth
+<div align="center">
 
-📊 **Aspiring Data Engineer**  
-💡 Passionate about data pipelines, big data & analytics  
-🎯 Goal: Become a skilled Data Engineer  
+# Hi, I'm Sainath Banoth 👋
+```bash
+$ whoami → aspiring-data-engineer
+```
 
----
+*Passionate about building scalable data pipelines, big data ecosystems & real-world analytics.*
 
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sainath-banoth-d09m03y04)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:banothsainath11@gmail.com)
+</div>
 
 ---
 
 ## 🧠 About Me
 
-* 📊 Currently learning **Data Engineering**
-* ⚙️ Working with **Big Data Tools**
-* 🧩 Interested in **Data Pipelines & ETL**
-* 🌍 Target: Global Tech Opportunities
+| | |
+|---|---|
+| 📊 Learning **Data Engineering** | 🔧 Building **ETL Pipelines** |
+| ⚡ Working with **Big Data Tools** | 🌍 Targeting **Global Tech Opportunities** |
 
 ---
 
 ## 💻 Tech Stack
 
 ### 🚀 Data Engineering
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
-![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=apacheflink&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
+![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black)
+![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=flat-square&logo=apacheflink&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
 
 ### ☁️ Cloud & Databases
-
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=flat-square&logo=microsoftazure&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
 ### 📊 Data Processing
-
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Sainath-11&show_icons=true&theme=tokyonight)
+<div align="center">
 
-<!-- ✅ FIXED STREAK -->
-![](https://streak-stats.demolab.com?user=Sainath-11&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sainath-11&show_icons=true&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sainath-11&layout=compact&theme=tokyonight)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Sainath-11&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sainath-11&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🧩 LeetCode Stats
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Sainath_11?theme=dark&font=Nunito&ext=heatmap)](https://leetcode.com/u/Sainath_11/)
+
+</div>
 
 ---
 
 ## 🔥 Current Focus
 
-* 📌 Building ETL Pipelines
-* 📌 Learning Distributed Data Systems
-* 📌 Working on Real-world Data Projects
+- 📌 Building production-grade **ETL Pipelines**
+- 📌 Learning **Distributed Data Systems**
+- 📌 Working on **Real-world Data Projects**
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sainath-banoth-d09m03y04)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:banothsainath11@gmail.com)
 
 ---
 
 ## ✨ Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+> *"Data is the new oil — but only if you know how to refine it. Keep building, keep learning."*
 
 ---
 
-## 👀 Profile Views
+<div align="center">
 
-![](https://visitcount.itsvg.in/api?id=Sainath-11&icon=5&color=6)
-
----
+![Profile Views](https://visitcount.itsvg.in/api?id=Sainath-11&icon=5&color=6)
 
 ⭐️ From [Sainath-11](https://github.com/Sainath-11)
+
+</div>
