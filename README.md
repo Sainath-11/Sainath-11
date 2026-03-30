@@ -14,82 +14,120 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hi, I'm Sainath Banoth
 
-📊 **Aspiring Data Engineer**
-💡 Passionate about data pipelines, big data & analytics
-🎯 Goal: Become a skilled Data Engineer
+<!-- PROFILE HEADER -->
+<h1 align="center">Hi 👋, I'm Sainath Banoth</h1>
+<h3 align="center">🚀 Aspiring Data Engineer | Backend Enthusiast</h3>
 
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sainath-banoth-d09m03y04)
-[![Mastodon](https://img.shields.io/badge/-Mastodon-%232B90D9?logo=mastodon\&logoColor=white)](https://mastodon.social/@BanothSainath)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:banothsainath11@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/sainath-banoth-d09m03y04">
+    <img src="https://img.shields.io/badge/LinkedIn-Sainath%20Banoth-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:banothsainath11@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://mastodon.social/@BanothSainath">
+    <img src="https://img.shields.io/badge/Mastodon-Profile-purple?style=for-the-badge&logo=mastodon">
+  </a>
+</p>
 
 ---
 
 ## 🧠 About Me
 
-* 📊 Currently learning **Data Engineering**
-* ⚙️ Working with **Big Data Tools**
-* 🧩 Interested in **Data Pipelines & ETL**
-* 🌍 Target: Global Tech Opportunities
+🚀 I’m building my journey toward becoming a **Data Engineer + Backend Developer**  
+📊 Passionate about **Data Pipelines, Distributed Systems & Scalable Backend**  
+⚙️ Currently working with **Big Data tools & real-world projects**  
+🌍 Targeting **global opportunities (Japan 🇯🇵 focus)**  
+
+---
+
+## 🔥 Current Focus
+
+- 📌 Building **ETL Pipelines**
+- 📌 Learning **Distributed Systems**
+- 📌 Practicing **DSA daily**
 
 ---
 
 ## 💻 Tech Stack
 
 ### 🚀 Data Engineering
+<p>
+  <img src="https://skillicons.dev/icons?i=python,azure" />
+</p>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge\&logo=apachespark\&logoColor=black)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge\&logo=apachekafka)
-![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge\&logo=apachehadoop\&logoColor=black)
-![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge\&logo=apachehive\&logoColor=black)
-![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge\&logo=apacheflink\&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge\&logo=apacheairflow\&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka"/>
+  <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop"/>
+  <img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive"/>
+  <img src="https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=apacheflink"/>
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow"/>
+</p>
 
-### ☁️ Cloud & Databases
-
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge\&logo=microsoft%20sql%20server\&logoColor=white)
+---
 
 ### 📊 Data Processing
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+</p>
 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge\&logo=pandas\&logoColor=white)
+---
+
+### ☁️ Cloud & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,mysql" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Sainath-11\&show_icons=true\&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sainath-11&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sainath-11\&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sainath-11&theme=tokyonight&hide_border=true" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sainath-11\&layout=compact\&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sainath-11&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 🔥 Current Focus
+## 🏆 Achievements & Activity
 
-* 📌 Building ETL Pipelines
-* 📌 Learning Distributed Data Systems
-* 📌 Working on Real-world Data Projects
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sainath-11&theme=tokyonight&no-frame=true&margin-w=10"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sainath-11&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
 ## ✨ Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
 ---
 
 ## 👀 Profile Views
 
-![](https://visitcount.itsvg.in/api?id=Sainath-11\&icon=5\&color=6)
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Sainath-11&icon=5&color=6"/>
+</p>
 
 ---
 
