@@ -82,6 +82,8 @@ My goal is to become a Robotics Software Engineer and contribute to research in 
 
 ## 📈 GitHub Stats
 
+## 📊 GitHub Stats
+
 ![](https://github-readme-stats.vercel.app/api?username=Sainath-11&show_icons=true&theme=tokyonight)
 
 ![](https://streak-stats.demolab.com?user=Sainath-11&theme=tokyonight)
