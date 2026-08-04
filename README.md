@@ -80,15 +80,15 @@ My goal is to become a Robotics Software Engineer and contribute to research in 
 
 ---
 
-## 📈 GitHub Stats
-
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Sainath-11&show_icons=true&theme=tokyonight)
-
-![](https://streak-stats.demolab.com?user=Sainath-11&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sainath-11&layout=compact&theme=tokyonight)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sainath-11&show_icons=true&theme=tokyonight&cache_seconds=86400" alt="Sainath's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sainath-11&layout=compact&theme=tokyonight&cache_seconds=86400" alt="Top languages" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sainath-11&theme=tokyonight&cache_seconds=86400" alt="GitHub streak" />
+</p>
 
 ---
 
